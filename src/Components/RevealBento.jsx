@@ -68,16 +68,16 @@ const HeaderBlock = () => (
       className="mb-4 size-14 rounded-full"
     />
     <h1 className="mb-12 text-4xl font-medium leading-tight">
-      Hi, I'm Tom.{" "}
+      Hello, I'm Vedank.{" "}
       <span className="text-zinc-400">
-        I build cool websites like this one.
+        I Code in SpareTime :P.
       </span>
     </h1>
     <a
       href="#"
       className="flex items-center gap-1 text-red-300 hover:underline"
     >
-      Contact me <FiArrowRight />
+      Hit me up! <FiArrowRight />
     </a>
   </Block>
 );
@@ -148,9 +148,7 @@ const AboutBlock = () => (
     <p>
       My passion is building cool stuff.{" "}
       <span className="text-zinc-400">
-        I build primarily with React, Tailwind CSS, and Framer Motion. I love
-        this stack so much that I even built a website about it. I've made over
-        a hundred videos on the subject across YouTube and TikTok.
+        I am a Creative Graphic Web Developer, with taste in art and Visual Appearance of a website and an eye for User Interactivity!
       </span>
     </p>
   </Block>
