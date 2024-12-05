@@ -1,24 +1,12 @@
-import { useState } from 'react'
-import './App.css';
-import  RevealBento  from './Components/RevealBento';
+import React from 'react'
+import Bento from './Components/Bento'
 
-import './index.css'; // Import Tailwind CSS
-
-
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
     <>
-      <RevealBento/>
-      <HeaderBlock />
-      <SocialsBlock />
-      <AboutBlock />
-      <LocationBlock />
-      <EmailListBlock />
-      <Footer />
+      <Bento />
     </>
-  );
+  )
 }
 
 export default App
