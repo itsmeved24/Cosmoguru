@@ -21,7 +21,7 @@ const Bot = () => {
                 {
                     parts: [
                         {
-                            text: `User Name: ${name}\nDate of Birth: ${dob}\nFrom the DOB detect the Star sign of the user then using that star sign tell today's horoscope for that sign, don't take exact star sign take approximate, don't include (Note:  Horoscopes are for entertainment purposes only.  Their accuracy is not guaranteed or any type of warnings don't include`,
+                            text: `User Name: ${name}\nDate of Birth: ${dob}\nFrom the DOB detect the Star sign of the user then using that star sign tell today's horoscope for that sign, don't take exact star sign take approximate, don't include (Note:  Horoscopes are for entertainment purposes only.  Their accuracy is not guaranteed or any type of warnings don't include, don't make it lenghty directly get to the point but explain how would that person have the day further and also tell the colored that is favored to be worn that day. Give the answer in points`,
                         },
                     ],
                 },

@@ -16,10 +16,10 @@ const Footer = () => {
       <div
         className="flex space-x-6 py-2 px-4 rounded-full shadow-lg"
         style={{
-          background: "rgba(255, 255, 255, 0.2)", // Transparent white background
-          backdropFilter: "blur(10px)", // Frosted-glass effect
-          WebkitBackdropFilter: "blur(10px)", // Safari support
-          border: "1px solid rgba(255, 255, 255, 0.3)", // Subtle border for glass effect
+          background: "rgba(255, 255, 255, 0.2)",
+          backdropFilter: "blur(10px)", 
+          WebkitBackdropFilter: "blur(10px)",
+          border: "1px solid rgba(255, 255, 255, 0.3)", 
         }}
       >
         {menuItems.map((item, index) => (

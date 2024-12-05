@@ -8,7 +8,7 @@ const LeftBlock = () => (
     <img className="top-0 left-0 h-24 mb-4" src={vedankLogo} alt="" />
     <h1 className="mb-12 text-2xl font-medium leading-tight">
       Hello, I'm <span className="text-zinc-400">Vedank</span> with a{" "}
-      <span className="text-zinc-400">unique</span> name all over the social media platforms, nice to meet you.
+      <span className="text-zinc-400">unique</span> name all over the <span className="text-zinc-400">social media platforms</span>, nice to meet you.
       <br />
       <br />
       <span className="text-zinc-400 block">I code in spare time :P.</span>
