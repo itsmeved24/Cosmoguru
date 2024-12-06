@@ -117,19 +117,7 @@ A beautifully designed **navbar** is included, linking to the creator's social p
 Cosmoguru is the brainchild of **Vedank**, a passionate developer with a keen interest in blending technology with astrology. With a strong background in front-end development and a flair for design, Vedank has created an application that’s as functional as it is visually stunning.
 
 ---
-
-## ✨ Future Scope
-
-- Adding backend support for enhanced features.
-- Incorporating more astrological tools like birth chart analysis.
-- Enabling multi-language support for global reach.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repository, create a feature branch, and submit a pull request.
-
+Made With ❤️ by Vedank!
 ---
 
 ## 🛡️ License
