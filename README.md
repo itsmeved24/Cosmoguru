@@ -1,6 +1,3 @@
-Here’s the updated README with the added details about the UI, creator, and the navbar with social links:
-
----
 
 # 🌌 Cosmoguru
 
@@ -11,8 +8,6 @@ Developed by **Vedank**, Cosmoguru reflects a passion for astrology and modern w
 ---
 
 ## 📂 Project Structure
-
-Here's an overview of the file structure to help you navigate the project:
 
 ```
 Cosmoguru/
