@@ -102,8 +102,6 @@ The project uses the **Gemini API** to fetch astrological data. Ensure you have 
 
 ---
 
----
-
 ## 🌟 About the Creator
 
 Cosmoguru is the brainchild of **Vedank**, a passionate developer with a keen interest in blending technology with astrology. With a strong background in front-end development and a flair for design, Vedank has created an application that’s as functional as it is visually stunning.
