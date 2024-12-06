@@ -102,14 +102,6 @@ The project uses the **Gemini API** to fetch astrological data. Ensure you have 
 
 ---
 
-## ✨ Features in Detail
-
-### User-Friendly UI
-The interface is designed with simplicity and elegance in mind, ensuring effortless navigation. The chatbot is intuitive and responsive, adapting to various devices for a smooth user experience.
-
-### Navbar with Social Links
-A beautifully designed **navbar** is included, linking to the creator's social profiles. Stay connected and explore more about the creator, **Vedank**, through platforms like GitHub, LinkedIn, and more.
-
 ---
 
 ## 🌟 About the Creator
