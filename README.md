@@ -118,17 +118,7 @@ Cosmoguru is the brainchild of **Vedank**, a passionate developer with a keen in
 
 ---
 
-## ✨ Future Scope
-
-- Adding backend support for enhanced features.
-- Incorporating more astrological tools like birth chart analysis.
-- Enabling multi-language support for global reach.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repository, create a feature branch, and submit a pull request.
+Made With ❤️ by Vedank!
 
 ---
 
